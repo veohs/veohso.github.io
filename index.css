@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://images.unsplash.com/photo-1516571748831-5d81767b788d?w=1634");
+    url("https://i.redd.it/wbhfdh4zh2y81.png");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://images.unsplash.com/photo-1516571748831-5d81767b788d?w=1634") center center fixed;
+    url("https://i.redd.it/wbhfdh4zh2y81.png") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://images.unsplash.com/photo-1516571748831-5d81767b788d?w=1634") !important;
+      url("https://i.redd.it/wbhfdh4zh2y81.png") !important;
   }
 }
